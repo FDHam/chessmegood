@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  piece_type: pawn
+  color: white
+  file: a
+  rank: 2
+  captured: false
+  board: one
+
+two:
+  piece_type: pawn
+  color: black
+  file: a
+  rank: 7
+  captured: false
+  board: two

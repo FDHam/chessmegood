@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: White Player
+  color: white
+  game: one
+  session_token: white_token_123
+
+two:
+  name: Black Player
+  color: black
+  game: two
+  session_token: black_token_123

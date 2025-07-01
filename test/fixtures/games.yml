@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: pending
+  current_player_id: 
+  timer_settings: "5+3"
+
+two:
+  status: pending
+  current_player_id: 
+  timer_settings: "10+0"

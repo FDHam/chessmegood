@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from_file: a
+  from_rank: 2
+  to_file: a
+  to_rank: 4
+  algebraic_notation: a4
+  piece: one
+  player: one
+  game: one
+
+two:
+  from_file: a
+  from_rank: 7
+  to_file: a
+  to_rank: 5
+  algebraic_notation: a5
+  piece: two
+  player: two
+  game: two
